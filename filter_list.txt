@@ -1,5 +1,5 @@
-! homepage = test.homepage.org
+! homepage: test.homepage.org
 ! random comment
-! Title = Test filter list
+! Title: Test filter list
 abptestpages.org###eh-id
 abptestpages.org##.eh-class
